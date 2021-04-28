@@ -1,1 +1,2 @@
-# lab-08-if-while
+this is lab08
+It's about conditionals and forloops 
